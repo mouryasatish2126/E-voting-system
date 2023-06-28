@@ -25,8 +25,6 @@ is an important part on a Democratic Country. Hence in this project we have trie
 4. Open metamask and create accounts for voters and candidates
 5. Run the react app: `npm start`
 
-## Deploy smart contract on testnet:
-Refer to this video for deploying smart contract on testnet: https://youtu.be/L1L050u7j2M
 
 ## Note:
 You can open and paste the code in Remix and test all the functions. 
